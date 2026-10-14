@@ -1,5 +1,5 @@
 const tracks = [
-  { name: "Léa / LOUISE ATTAQUE", file: "audio/Louise Attaque - Léa.mp3", duration: "3:18" },
+  { name: "Léa(Live@la Cigale 2016) / LOUISE ATTAQUE", file: "audio/Léa (Live – La Cigale 2016).mp3", duration: "3:13" },
   { name: "J'accuse / DAMIEN SAEZ", file: "audio/Damien Saez - Jaccuse.mp3", duration: "4:28" },
   { name: "Back to black / AMY WHINEHOUSE", file: "audio/Amy Winehouse - Back To Black.mp3", duration: "4:00" },
   { name: "La grenande / CLARA LUCIANI", file: "audio/Clara Luciani - La grenade.mp3", duration: "3:14" },
